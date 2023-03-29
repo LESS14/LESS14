@@ -9,7 +9,7 @@
 </p>
 
 <center>
-<h3>Veja Alguns dos meus projetos:</h3>
+<h2 align="center">Veja Alguns dos meus projetos:</h2>
 <a align="center" href="https://github.com/LESS14/Color-Picker"><img src="https://gh-card.dev/repos/LESS14/Color-Picker.png"></a>
 <a align="center" href="https://github.com/LESS14/QR-code-generator"><img src="https://gh-card.dev/repos/LESS14/QR-code-generator.png"></a>
 </center>
