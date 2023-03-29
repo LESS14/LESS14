@@ -13,4 +13,3 @@
 </center>
 <a align="center" href="https://github.com/LESS14/Color-Picker"><img src="https://gh-card.dev/repos/LESS14/Color-Picker.png"></a>
 <a align="center" href="https://github.com/LESS14/QR-code-generator"><img src="https://gh-card.dev/repos/LESS14/QR-code-generator.png"></a>
-<a><img align="center" src="https://img.shields.io/github/languages/top/LESS14/QR-Code-Generator?color=434343&label=Javascript&logoColor=A4A4A4&style=plastic" height="30em"></a><a><img src="https://img.shields.io/github/languages/top/LESS14/Color-Picker?color=434343&label=C++&logoColor=A4A4A4&style=plastic"></a>
