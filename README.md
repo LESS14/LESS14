@@ -7,3 +7,9 @@
 <img src="https://lanyard.cnrad.dev/api/879190916894711869" height="200em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true" height="200em">
 </p>
+
+<center>
+<h3>Veja Alguns dos meus projetos:</h3>
+<a href="https://github.com/LESS14/Color-Picker"><img src="https://gh-card.dev/repos/LESS14/Color-Picker.png"></a>
+<a href="https://github.com/LESS14/QR-code-generator"><img src="https://gh-card.dev/repos/LESS14/QR-code-generator.png"></a>
+</center>
