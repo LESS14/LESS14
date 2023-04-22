@@ -5,4 +5,4 @@
  href="https://www.linkedin.com/in/felipe-maciel-56b594270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a><a href="https://www.youtube.com/channel/UCmkbZQ128B5pje4CQrRbyOg" title="Linkedin" target="_blank"> <img
  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="YouTube" target="_blank"></a></p>
  
- ![snake gif](https://github.com/LESS14/LESS14/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/LESS14/LESS14/blob/output/github-contribution-grid-snake.svg)!-->
