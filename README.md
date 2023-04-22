@@ -8,12 +8,12 @@
 <h1 align="left">Veja Alguns dos meus projetos:</h1><a align="center" href="https://github.com/LESS14/Color-Picker"
     target="_blank"><img src="https://gh-card.dev/repos/LESS14/Color-Picker.png" height="100em"></a><a align="center"
     href="https://github.com/LESS14/QR-code-generator" target="_blank"><img
-        src="https://gh-card.dev/repos/LESS14/QR-code-generator.png" height="100em"></a><a
-    href="https://www.linkedin.com/in/felipe-maciel-56b594270/" target="_blank">
+        src="https://gh-card.dev/repos/LESS14/QR-code-generator.png" height="100em"></a>
     <h2>Redes sociais</h2>
     </p>
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        target="_blank">
+    <a
+    href="https://www.linkedin.com/in/felipe-maciel-56b594270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target="_blank"></a>
 </a>
 <a href="https://www.youtube.com/channel/UCmkbZQ128B5pje4CQrRbyOg" title="Linkedin" target="_blank"> <img
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
