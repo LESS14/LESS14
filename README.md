@@ -15,7 +15,7 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
 # Habilidades
 <details>
 <summary>Habilidades (Revelar/Esconder)</summary>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r,wordpress,angular,python,docker,go,svelte,firebase,styledcomponents,pascal" alt="Habilidades">
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r,wordpress,angular,python,docker,go,svelte,firebase,styledcomponents,swift" alt="Habilidades">
 </details>
 
 
