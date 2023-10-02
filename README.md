@@ -10,6 +10,7 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
 <details style="user-select:none;" open>
   <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&theme=dark" alt="Github Stats">
 </details>
 
 # Habilidades
