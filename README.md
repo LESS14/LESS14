@@ -7,15 +7,15 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
 
 
 # Estatísticas
-<details style="user-select:none;">
-  <summary open>Estatísticas (Revelar/Esconder)</summary>
+<details style="user-select:none;" open>
+  <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats">
 </details>
 
 # Habilidades
 <details>
-<summary>Habilidades</summary>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,sql,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r" alt="Habilidades">
+<summary>Habilidades (Revelar/Esconder)</summary>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r" alt="Habilidades">
 </details>
 
 
