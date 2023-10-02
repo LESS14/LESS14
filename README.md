@@ -7,5 +7,5 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
 
 <details>
   <summary>Github Stats</summary>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LESS14)]
+  <img src="https://github-readme-stats.vercel.app/api?username=LESS14" alt="Github Stats">
 </details>
