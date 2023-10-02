@@ -5,14 +5,17 @@ Aqui no meu perfil do Github irei postar algumas contribuições como projetos p
 
 Grande parte de meus repositórios foram arquivados recentemente pois estou com o tempo bem curto e portanto não tenho tempo para continuar atualizando a maioria dos repositórios.
 
-# Habilidades
-[![](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,sql,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r)](https://skillicons.dev)
-
 
 # Estatísticas
 <details style="user-select:none;">
   <summary open>Estatísticas (Revelar/Esconder)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats">
+</details>
+
+# Habilidades
+<details>
+<summary>Habilidades</summary>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,nextjs,php,nodejs,sql,mongo,mysql,tailwind,arduino,bootstrap,fortran,kotlin,vite,react,cs,java,r" alt="Habilidades">
 </details>
 
 
