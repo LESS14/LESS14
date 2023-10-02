@@ -4,3 +4,8 @@ Olá, me chamo Felipe, tenho 23 anos e moro em Minas Gerais. Sou um Arquiteto de
 Aqui no meu perfil do Github irei postar algumas contribuições como projetos pessoais, utilitários, entre outros.
 
 Grande parte de meus repositórios foram arquivados recentemente pois estou com o tempo bem curto e portanto não tenho tempo para continuar atualizando a maioria dos repositórios.
+
+<details>
+  <summary>Github Stats</summary>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LESS14)]
+</details>
