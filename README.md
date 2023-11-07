@@ -1,5 +1,5 @@
 # Um pouco sobre mim
-Olá, me chamo Felipe, tenho 23 anos e moro em Minas Gerais. Sou um Arquiteto de Software e Desenvolvedor Full-stack, estou sempre disposto a colaborar em projetos open-source.
+Olá, me chamo Felipe, tenho 23 anos. Sou um Arquiteto de Software e Desenvolvedor Full-stack, estou sempre disposto a colaborar em projetos open-source.
 
 Aqui no meu perfil do Github irei postar algumas contribuições como projetos pessoais, utilitários, entre outros.
 
@@ -11,6 +11,7 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
   <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&theme=dark&langs_count=8&layout=compact&exclude_repo=QR-code-generator&hide=js,html,vue,pawn,css" alt="Github Stats"><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LESS14" alt="Github Trophies">
 </details>
 
 # Habilidades
