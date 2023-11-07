@@ -14,7 +14,7 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
 </details>
 
 # Troféus
-<details style="user-select:none;" open>
+<details>
   <summary>Troféus (Revelar/Esconder)</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=LESS14&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&row=3&column=2" alt="Github Trophies">
 </details>
