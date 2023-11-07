@@ -3,7 +3,7 @@ Olá, me chamo Felipe, tenho 23 anos. Sou um Arquiteto de Software e Desenvolved
 
 Aqui no meu perfil do Github irei postar algumas contribuições como projetos pessoais, utilitários, entre outros.
 
-Grande parte de meus repositórios foram arquivados recentemente pois estou com o tempo bem curto e portanto não tenho tempo para continuar atualizando a maioria dos repositórios.
+Todos meus repositórios antigos e que não estão mais sendo atualizados foram arquivados.
 
 
 # Estatísticas
