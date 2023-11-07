@@ -11,7 +11,7 @@ Grande parte de meus repositórios foram arquivados recentemente pois estou com 
   <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&theme=dark&langs_count=8&layout=compact&exclude_repo=QR-code-generator&hide=js,html,vue,pawn,css" alt="Github Stats"><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=LESS14" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=LESS14&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Github Trophies">
 </details>
 
 # Habilidades
