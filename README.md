@@ -11,7 +11,6 @@ Todos meus repositórios antigos e que não estão mais sendo atualizados foram 
   <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&theme=dark&langs_count=8&layout=compact&exclude_repo=QR-code-generator&hide=js,html,vue,pawn,css" alt="Github Stats"><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=LESS14&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&row=3&column=2" alt="Github Trophies">
 </details>
 
 # Troféus
