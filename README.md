@@ -16,7 +16,7 @@ Todos meus repositórios antigos e que não estão mais sendo atualizados foram 
 # Troféus
 <details>
   <summary>Troféus (Revelar/Esconder)</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=LESS14&theme=onedark&row=4&column=3" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=LESS14&theme=onedark&row=3&column=2" alt="Github Trophies">
 </details>
 
 # Habilidades
