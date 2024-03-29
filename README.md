@@ -11,7 +11,7 @@ Todos meus repositórios antigos e que não estão mais sendo atualizados foram 
   <summary open>Estatísticas (Esconder/Revelar)</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=LESS14&theme=dark" alt="Github Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LESS14&theme=dark&langs_count=8&layout=compact&exclude_repo=QR-code-generator&hide=js,html,vue,pawn,css" alt="Github Stats"><br/>
-  <img src="https://wakatime.com/badge/user/018e83bd-2c15-4cd2-984f-a9fb0a3fd9f2.svg" alt="Wakatime Badge"><br/>
+  <a href="https://wakatime.com/@LESS14"><img src="https://wakatime.com/badge/user/018e83bd-2c15-4cd2-984f-a9fb0a3fd9f2.svg" alt="Wakatime Badge"></a><br/>
 </details>
 
 # Troféus
