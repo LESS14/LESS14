@@ -1,7 +1,7 @@
 # Um pouco sobre mim (a little about me)
 Hi there, my name is Felipe Maciel, and I'm a Brazilian-born software architect. I'm always willing to contribute to open source projects that interest me.
 
-I have many hobbies and frequently shift my focus between them and various hobby projects. Currently, I am working on a side project to create an RPG-based open.mp server with modern features that blend both classical and contemporary RPG elements. I've been developing this project with a group of friends for about five months, but it's only gotten more serious in the last three months. It's now on a bit of a halt due to some significant life changes I'm going through, but I still update it and maintain the infrastructure regularly, I intend to catch my breath and get back onto it full force pronto and release some huge updates.
+I have many hobbies and frequently shift my focus between them and various hobby projects. Currently, I am working on a side project to create an RPG-based open.mp server with modern features that blend both classical and contemporary RPG elements. I've been developing this project with a group of friends for about five months, but it's only gotten more serious in the last three months. It's now on a bit of a halt due to some significant life changes I'm going through, but I still update it and maintain the infrastructure regularly, I intend to catch my breath and get back onto it full force and release some huge updates once I feel motivated enough to.
 
 
 
